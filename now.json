@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "Mortgage-Calculator",
+  "builds": [{ "src": "**/*.js", "use": "@now/node"}]
+}
